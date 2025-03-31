@@ -30,4 +30,4 @@ This project is useful for data engineers, analysts, and developers who need to 
 
 - Business intelligence applications
 
-The dataset used in this project can be found [here]([https://example.com/dataset.csv](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data))
+The dataset used in this project can be found [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
