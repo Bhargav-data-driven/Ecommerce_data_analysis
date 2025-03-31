@@ -31,3 +31,5 @@ This project is useful for data engineers, analysts, and developers who need to 
 - Business intelligence applications
 
 ## The dataset used in this project can be found [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
+
+<img src="https://github.com/Bhargav-data-driven/-Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project/blob/main/Spotify_Architecture.png" alt="Data Architecture" width="600" height="500">
