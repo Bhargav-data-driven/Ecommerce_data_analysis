@@ -32,4 +32,18 @@ This project is useful for data engineers, analysts, and developers who need to 
 
 ## The dataset used in this project can be found [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data)
 
+
+
+
 <img src="https://github.com/Bhargav-data-driven/Ecommerce_data_analysis/blob/main/dm.jpg" alt="Data Architecture" width="600" height="500">
+
+
+## Some Example  insights SQL
+
+**1** Create a temporary table that joins the orders, order_products, and products tables to get information about each order, including the products that were purchased and their department and aisle information.
+
+**2** Create a temporary table that groups the orders by product and finds the total number of times each product was purchased, the total number of times each product was reordered, and the average number of times each product was added to a cart.
+
+**3** Create a temporary table that groups the orders by department and finds the total number of products purchased, the total number of unique products purchased, the total number of products purchased on weekdays vs weekends, and the average time of day that products in each department are ordered.
+
+**4** Combine the information from the previous temporary tables into a final table that shows the product ID, product name, department ID, department name, aisle ID, aisle name, total number of times purchased, total number of times reordered, average number of times added to cart, total number of products purchased, total number of unique products purchased, total number of products purchased on weekdays, total number of products purchased on weekends, and average time of day products are ordered in each department.
